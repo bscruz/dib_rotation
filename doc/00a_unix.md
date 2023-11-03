@@ -4,3 +4,4 @@ You will need to download the data for this lesson [here](https://figshare.com/a
 + [An Introduction to Shell](https://angus.readthedocs.io/en/2019/shell_intro/index.html).
 + [The Unix Shell](https://swcarpentry.github.io/shell-novice/)
 + [Introduction to using the shell in a High-Performance Computing context](https://hpc-carpentry.github.io/hpc-shell/)
++ [The Mac Terminals Command Cheat Sheet](https://www.makeuseof.com/tag/mac-terminal-commands-cheat-sheet/)
