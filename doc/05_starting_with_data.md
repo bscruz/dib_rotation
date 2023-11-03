@@ -4,6 +4,8 @@ The sample is named SB1 because it was sampled from the Schrader Bluff Formation
 We will start working with this sample by downloading it. 
 Then, we will assess its quality using FastQC. 
 
+
+
 ## Finding Sequencing Data
 
 There are many ways to discover and download sequencing data. 
@@ -49,7 +51,9 @@ mkdir raw_data
 cd raw_data
 ```
 > -   cd stands for "change directory" 
-> -   mkdir means "make directory", this is creating a directory called 2020_rotation_project
+> -   mkdir means "make directory"
+> -  creates a directory called 2020_rotarion_project
+
 
 Then, we can download the data into our `raw_data` directory.
 
