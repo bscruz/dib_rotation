@@ -48,6 +48,8 @@ cd 2020_rotation_project
 mkdir raw_data
 cd raw_data
 ```
+> -   cd stands for "change directory" 
+> -   mkdir means "make directory", this is creating a directory called 2020_rotation_project
 
 Then, we can download the data into our `raw_data` directory.
 
